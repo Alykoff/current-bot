@@ -1,0 +1,4 @@
+telepot
+pymongo
+BeautifulSoup4
+requests
